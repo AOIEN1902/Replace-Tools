@@ -1,0 +1,31 @@
+.mainBox {
+	margin: 20rpx;
+}
+.commonTextArea {
+	padding: 4rpx 8rpx;
+	border-radius: 8rpx;
+	border: 2rpx solid #999;
+	width: 92vw;
+	min-height: 200rpx;
+}
+.commonTip {
+	color: #aaa;
+	font-style: italic;
+	font-size: 24rpx;
+}
+.mb4 {
+	margin-bottom: 8rpx;
+}
+.mb8 {
+	margin-bottom: 16rpx;
+}
+.flexRow {
+	display: flex;
+	flex-direction: row;
+}
+.aic {
+	align-items: center;
+}
+.flex1 {
+	flex: 1;
+}
